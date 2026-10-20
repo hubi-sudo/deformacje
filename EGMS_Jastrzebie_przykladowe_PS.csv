@@ -1,0 +1,6 @@
+pid,typ,cluster,mean_velocity,trend_change,anomaly_score,rmse_ts
+30anlaNYke,reprezentant klastra 0,0,-0.9,-0.752726725806375,0.3418358262315843,0.6
+30apHLgSdy,reprezentant klastra 1,1,1.2,6.293559668689935,0.4663493623273129,2.3
+30arm3dY4t,punkt anomalny,0,31.0,-21.42784281713479,0.7704242622835992,2.9
+30aqGIKeBC,punkt anomalny,1,33.6,14.706257767359375,0.7466933366781413,2.6
+30apjTfvoj,punkt anomalny,1,17.6,27.548304665032408,0.7462333123014816,3.3
