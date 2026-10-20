@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+*.gpkg-wal
+*.gpkg-shm
+*.qgs~
+*.qgz~
+~$*
+
+# Robocze zrzuty ekranu (materiał do prezentacji, nie wynik skryptów)
+zrzuty.docx
+
+# Lokalne środowisko Pythona
+.venv/
