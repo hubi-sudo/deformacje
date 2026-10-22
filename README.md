@@ -7,12 +7,12 @@ Projekt z przedmiotu *Analiza i przetwarzanie danych przestrzennych*. Na podstaw
 | | |
 |---|---|
 | Obszar | Jastrzębie-Zdrój i okolice (ok. 13,4 × 9,9 km), teren eksploatacji węgla kamiennego |
-| Przemieszczenia | EGMS Ortho (L3), siatka 100 m — 3977 punktów, 239 obserwacji od 2020-03-08 do 2024-12-06 |
+| Przemieszczenia | EGMS Ortho (L3), składowa wschód–zachód, siatka 100 m — 3977 punktów, 239 obserwacji od 2020-03-08 do 2024-12-06 |
 | Budynki | EUBUCCO v0.2 — 26 847 budynków |
 
 Źródła: [EGMS](https://egms.land.copernicus.eu/), [dokumentacja EGMS](https://land.copernicus.eu/en/products/european-ground-motion-service?tab=documentation), [EUBUCCO](https://eubucco.com/data/download/v0.2).
 
-> **Składowa ruchu.** Rozkład prędkości (symetryczny wokół zera, pary stref o przeciwnych znakach) wskazuje na składową poziomą wschód–zachód EGMS Ortho: wartość dodatnia oznacza ruch na wschód, ujemna — na zachód. Należy to potwierdzić nazwą pobranego pliku (`..._E_...` = wschód–zachód, `..._U_...` = pionowa).
+> **Składowa ruchu.** Dane to składowa pozioma wschód–zachód EGMS Ortho (plik źródłowy `EGMS_L3_E49N30_100km_E_2020_2024_1.zip`): wartość dodatnia oznacza ruch na wschód, ujemna — na zachód.
 
 ## Struktura repozytorium
 
